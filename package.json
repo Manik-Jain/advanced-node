@@ -1,0 +1,30 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "explores advanced node threading",
+  "keywords": [
+    "node",
+    "threading",
+    "worker",
+    "pool"
+  ],
+  "homepage": "https://github.com/Manik-Jain/advanced-node#readme",
+  "bugs": {
+    "url": "https://github.com/Manik-Jain/advanced-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manik-Jain/advanced-node.git"
+  },
+  "license": "ISC",
+  "author": "Manik Jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
